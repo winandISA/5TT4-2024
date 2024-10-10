@@ -7,6 +7,8 @@ while(continuer):
     nu = int(input("Faites un essai: "))
     if nu == na:
         print("vous avez gagné")
+# O:-)
+        continuer = False
     else:
         if nu > na:
             print("le chiffre est plus petit")

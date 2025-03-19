@@ -4,7 +4,7 @@ bateaux = {"Porte avions": 5,
            "Torpilleur": 3,
            "": 2}
 
-print("coucocu")
+print("coucocu2")
 def creerGrille():
         return [["  ", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J"],
             [" 1", "~", "~", "~", "~", "~", "~", "~", "~", "~", "~"],

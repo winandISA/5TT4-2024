@@ -10,6 +10,8 @@ RED = (255, 0, 0)
 GREEN = (0, 255, 0)
 
 print("test")
+input("coucou")
+
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Premier Jeu en Pygame")
 
